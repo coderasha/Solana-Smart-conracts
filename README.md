@@ -21,10 +21,6 @@ The project comprises of:
 * A client that can send a "hello" to an account and get back the number of
   times "hello" has been sent
 
-## Quick Start
-
-[![Open in
-Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/solana-labs/example-helloworld)
 
 If you decide to open in Gitpod then refer to
 [README-gitpod.md](README-gitpod.md), otherwise continue reading.
