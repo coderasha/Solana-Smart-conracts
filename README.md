@@ -5,9 +5,7 @@
 </p>
 
 
-[travis-image]:
-https://travis-ci.org/solana-labs/example-helloworld.svg?branch=master
-[travis-url]: https://travis-ci.org/solana-labs/example-helloworld
+
 
 # Hello world on Solana
 
